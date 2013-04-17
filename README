@@ -1,0 +1,1 @@
+ofxWinMouseControl is a simple library for controlling mouse under windows. Based on SendInput from "windows.h".
